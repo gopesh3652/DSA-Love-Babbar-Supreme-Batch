@@ -1,0 +1,4 @@
+discussion on flowcharts
+pseudo code
+
+compilation process in detail
