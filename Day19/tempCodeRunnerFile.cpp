@@ -1,0 +1,2 @@
+
+    int size = nums.size();

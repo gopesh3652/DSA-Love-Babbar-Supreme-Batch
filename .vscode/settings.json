@@ -1,9 +1,6 @@
 {
-    "C_Cpp.errorSquiggles": "enabled",
-    "files.associations": {
-        "*.ejs": "html",
-        "ostream": "cpp",
-        "vector": "cpp",
-        "iostream": "cpp"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
     }
 }
