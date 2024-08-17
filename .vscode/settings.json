@@ -2,5 +2,9 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[cpp]": {
         "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "terminal.integrated.fontSize": 14,
+    "files.associations": {
+        "iostream": "cpp"
     }
 }
